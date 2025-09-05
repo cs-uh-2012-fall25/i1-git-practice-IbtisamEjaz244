@@ -7,3 +7,5 @@ What stands out is that the article highlights how software engineering is not j
 
 # Proof reading
 Article checked for typos
+# Comments added by Abdul Rehman Waheed - Abdul4237
+I find the article to be very structured and gives a thorough understanding of what it means to be a software engineer.
