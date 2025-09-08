@@ -9,3 +9,6 @@ What stands out is that the article highlights how software engineering is not j
 Article checked for typos
 # Comments added by Abdul Rehman Waheed - Abdul4237
 I find the article to be very structured and gives a thorough understanding of what it means to be a software engineer.
+
+# Comments added by Rayan Asad - ma8821
+I believe that the article is very good for inexperienced aspiriing software engineers, and does a good job in explaining the fundamentals of what the role might entail
